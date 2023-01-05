@@ -7,3 +7,8 @@
 - ✉️ How to reach me: [telegram](https://t.me/knapweedss)
 ---
 ### Skills
+- 👩‍💻 Python, R, bash
+- ⚙️ PyTorch, TensorFlow, sklearn, pandas
+- 📀 MySQL, PostgreSQL, ClickHouse, NoSQL
+- 📊 plotly, matplotlib, seaborn
+- 🌐 flask, dash, streamlit, H2O Wave 
