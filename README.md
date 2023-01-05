@@ -1,4 +1,11 @@
 ### Hi, i'm Masha 👋 
+
+<style>
+  .table { border-collapse: collapse; }
+  .table th, .tbl td { padding: 5px; border: solid 1px #777; }
+  .table th { background-color: lightblue; }
+</style>
+
 <table>
 <tr>
 <th> <h2> About me: </h2> </th>
