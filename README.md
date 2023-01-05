@@ -1,5 +1,6 @@
-### Hi 👋
+### Hi, i'm Masha 👋 
 
-My name is Masha 
-- 🔭 i'm a Data Scientist at [Sponsr](https://sponsr.ru) & HSE Computational Linguistics student  
-
+### About me:
+- 🔭 Data Scientist at [Sponsr](https://sponsr.ru) & HSE Computational Linguistics student  
+- 🍀 interested in NLP, ML, DL and data visualization
+- ✉️ How to reach me: [telegram](https://t.me/knapweedss)
