@@ -6,9 +6,7 @@
 - 🍀 interested in NLP, bioinformatics, ML and DL
 - ✉️ How to reach me: [telegram](https://t.me/knapweedss)
 
-<p align="right">
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-</p>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" align="right" />
 
 ### Skills:
 - 👩‍💻 Python, R, bash
