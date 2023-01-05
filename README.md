@@ -2,8 +2,7 @@
 
 <table>
 <tr>
-<th> <h2> About me: </h2> </th>
-<th> <h2>  Skills </h2>  </th>
+
 </tr>
 <tr>
 <th>
