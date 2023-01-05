@@ -10,7 +10,7 @@
 
 ### Skills:
 - 👩‍💻 Python, R, bash
-- ⚙️ PyTorch, TensorFlow, sklearn, pandas
+- ⚙️ PyTorch, TensorFlow, scikit-learn, pandas, nltk, spacy, natasha, gensim
 - 📀 MySQL, PostgreSQL, ClickHouse, NoSQL
 - 📊 plotly, matplotlib, seaborn
 - 🌐 flask, dash, streamlit, H2O Wave 
