@@ -1,14 +1,6 @@
 ### Hi, i'm Masha 👋 
 ---
 
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
 <table>
 <tr>
 <th> <h2> About me: </h2> </th>
@@ -34,3 +26,8 @@ td, th {
 </td>
 </tr>
 </table>
+body .tablelines table, 
+body .tablelines td, 
+body .tablelines th {
+    border: 1px solid black; padding:10px;
+}
