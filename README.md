@@ -1,26 +1,20 @@
 ### Hi, i'm Masha 👋 
 
-<style>
-  .table { border-collapse: collapse; }
-  .table th, .tbl td { padding: 5px; border: solid 1px #777; }
-  .table th { background-color: lightblue; }
-</style>
-
 <table>
 <tr>
 <th> <h2> About me: </h2> </th>
 <th> <h2>  Skills </h2>  </th>
 </tr>
 <tr>
-<td>
+<th>
 
 - 🔭 Data Scientist at [Sponsr](https://sponsr.ru) 
 - 🎓 HSE Computational Linguistics student  
 - 🍀 interested in NLP, bioinformatics, ML and DL
 - ✉️ How to reach me: [telegram](https://t.me/knapweedss)
 
-</td>
-<td>
+</th>
+<th>
 
 - 👩‍💻 Python, R, bash
 - ⚙️ PyTorch, TensorFlow, sklearn, pandas
@@ -28,7 +22,7 @@
 - 📊 plotly, matplotlib, seaborn
 - 🌐 flask, dash, streamlit, H2O Wave 
 
-</td>
+</th>
 </tr>
 </table>
 
