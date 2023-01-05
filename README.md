@@ -1,6 +1,10 @@
 ### Hi, i'm Masha 👋 
 ---
-
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 <table>
 <tr>
