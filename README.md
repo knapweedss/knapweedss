@@ -3,7 +3,7 @@
 <table>
 <tr>
 <th> <h2> About me: </h2> </th>
-<th> <h2>  Skills </h2>  </th>
+<th> <h2>  Skills: </h2>  </th>
 </tr>
 <tr>
 <th>
@@ -13,7 +13,6 @@
 - 🍀 interested in NLP, bioinformatics, ML and DL
 - ✉️ How to reach me: [telegram](https://t.me/knapweedss)
 </th>
-</tr>
 <th>
 
 - 👩‍💻 Python, R, bash
