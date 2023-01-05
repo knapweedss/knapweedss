@@ -4,13 +4,12 @@
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
+<th> ### About me: </th>
+<th> ### Skills </th>
 </tr>
 <tr>
 <td>
 
-### About me:
 - 🔭 Data Scientist at [Sponsr](https://sponsr.ru) 
 - 🎓 HSE Computational Linguistics student  
 - 🍀 interested in NLP, bioinformatics, ML and DL
@@ -19,7 +18,6 @@
 </td>
 <td>
 
-### Skills
 - 👩‍💻 Python, R, bash
 - ⚙️ PyTorch, TensorFlow, sklearn, pandas
 - 📀 MySQL, PostgreSQL, ClickHouse, NoSQL
