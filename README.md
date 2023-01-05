@@ -12,4 +12,4 @@
 - 📀 MySQL, PostgreSQL, ClickHouse, NoSQL
 - 📊 plotly, matplotlib, seaborn
 - 🌐 flask, dash, streamlit, H2O Wave 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knapweedss)](https://github.com/anuraghazra/github-readme-stats)
+
