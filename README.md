@@ -4,7 +4,6 @@
 - 🔭 Data Scientist at [Sponsr](https://sponsr.ru) 
 - 🎓 HSE Computational Linguistics student  
 - 🍀 interested in NLP, bioinformatics, ML and DL
-- 🐾 I love cats c:
 - ✉️ How to reach me: [telegram](https://t.me/knapweedss)
 
 <img src="https://media.giphy.com/media/11FMB3s2TTlPwc/giphy.gif" width="100" height="100" align="right" />
