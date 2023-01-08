@@ -11,6 +11,6 @@
 ### Skills:
 - 👩‍💻 Python, R, bash
 - ⚙️ PyTorch, TensorFlow, scikit-learn, pandas, nltk, spacy, natasha, gensim
-- 📀 MySQL, PostgreSQL, ClickHouse, NoSQL
+- 📀 MySQL, PostgreSQL, ClickHouse, MongoDB
 - 📊 plotly, matplotlib, seaborn
 - 🌐 flask, dash, streamlit, H2O Wave 
