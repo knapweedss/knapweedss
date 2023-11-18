@@ -4,6 +4,7 @@
 
 ### About me:
 
-- 🎓 HSE Computational Linguistics
+- 🎓 bachelor's degree - Computational Linguistics, HSE University '23
+- 🎓 master's degree - Data Analysis in Biology and Medicine, HSE University '25
 - ✉️ How to reach me: [telegram](https://t.me/knapweedss) / mary.dolgodvorova@gmail.com
 - [My CV](https://skinny-ostrich-bf8.notion.site/2ce2a5e6295f4b85b8c4aa97e515d521)
